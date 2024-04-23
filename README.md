@@ -1,6 +1,6 @@
-# FLIGHT PRICE RPEDICTION USING ONLY LINEAR REGRESSION
+# FLIGHT PRICE RPEDICTION USING LINEAR REGRESSION
 
-#### I have applied numerous supervised machine learning concepts, including:
+#### We've done:
 * EDA
 * Feature Encoding
 * Feature Scaling
@@ -15,17 +15,10 @@ As part of my practice, I have created this repository to showcase my knowledge 
 This app is built using [Streamlit](https://docs.streamlit.io/).
 ___
 
-## Here are the steps you need to take to set up on your end: 
-1. Download or clone the repo on your local machine
-2. Install Requirements
- ```
-pip install -r requirements.txt
+## To run the streamlit application
+
 ```
 3. Run the app 
 ```
 streamlit run path/to/app.py/file
 ```
-
-___
-
-🚀 Here is the link to [My Kaggle Notebook](https://www.kaggle.com/code/sukhmani1303/flight-prices-linear-regression-95-eda)
